@@ -36,7 +36,7 @@ body {
 }
 
 .carusel__imgbox {
-  transition: all 0.7s linear;
+  transition: all 1s linear;
 }
 .carusel__btn {
   border: none;
